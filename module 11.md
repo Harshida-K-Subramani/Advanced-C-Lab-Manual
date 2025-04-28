@@ -262,7 +262,8 @@ int main() {
 
 Output:
 
-![11pg5](https://github.com/user-attachments/assets/eea3d24a-8555-4e5f-9da5-d1b20514bbfd)
+![11e](https://github.com/user-attachments/assets/e3e7b1ed-9a8c-4c94-8a78-0ffbaecc54a0)
+
 
 
 
