@@ -38,7 +38,8 @@ int main() {
 
 Output:
 
-![7day1](https://github.com/user-attachments/assets/0f7b3400-cf13-480c-abb3-c375eba48bd1)
+![7a](https://github.com/user-attachments/assets/979dbb06-f6f0-48a3-9996-ab8d50d47231)
+
 
 
 
@@ -90,7 +91,8 @@ int main() {
 Output:
 
 
-![7day2](https://github.com/user-attachments/assets/93862082-d393-44eb-b726-efb4da9aca8e)
+![7b](https://github.com/user-attachments/assets/eaa8c897-6d09-41e2-a076-5019494443b4)
+
 
 
 
@@ -146,7 +148,7 @@ int main() {
 
 Output:
 
-![7day3](https://github.com/user-attachments/assets/9e2bef90-a8f3-4a34-a337-1440a63e8bb1)
+![7c](https://github.com/user-attachments/assets/ad6dbbdf-44a7-4a43-aea9-1754b9db97e5)
 
 
 
@@ -203,7 +205,8 @@ Program:
 
 Output:
 
-![7day4](https://github.com/user-attachments/assets/357db8a3-cd46-4291-b651-7f04d4bebf65)
+![7d](https://github.com/user-attachments/assets/3ddcf3d2-d200-4236-bc78-a5f39ce0199d)
+
 
 
 
@@ -277,7 +280,7 @@ int main() {
 
 Output:
 
-![7prg5](https://github.com/user-attachments/assets/d55f6553-c686-4c97-b501-968e7c1c517a)
+![7e](https://github.com/user-attachments/assets/ca89666c-ff5f-4594-a5ec-b1855675336a)
 
 
 Result:
